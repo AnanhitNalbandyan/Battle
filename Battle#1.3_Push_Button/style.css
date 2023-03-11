@@ -1,0 +1,43 @@
+*{
+   margin:0;
+   background:#6592CF;
+}
+.wrapper{
+   width:400px;
+   height:300px;
+   background:#6592CF;
+}
+.sq {
+   width: 300px;
+   height: 160px;
+   background: #243D83;
+   margin:70px 50px;
+   position:relative;
+}
+.cir1{
+   width:250px;
+   height:250px;
+   border-radius:50%;
+   background:#6592CF;
+   position:absolute;
+   top:30px;
+   left:75px;
+}
+.cir2{
+   width:150px;
+   height:150px;
+   border-radius:50%;
+   background:#243D83;
+   position:absolute;
+   top:80px;
+   left:130px; 
+}
+.cir3{
+   width:50px;
+   height:50px;
+   border-radius:50%;
+   background:#EEB850;
+   position:absolute;
+   top:130px;
+   left:180px; 
+}
